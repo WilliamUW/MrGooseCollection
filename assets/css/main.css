@@ -1842,9 +1842,9 @@ input, select, textarea {
 			border-radius: 0;
 			padding: 0;
 		}
-
+/*
 /* Button */
-
+/*
 	input[type="submit"],
 	input[type="reset"],
 	input[type="button"],
@@ -2014,7 +2014,7 @@ input, select, textarea {
 					line-height: 3rem;
 				}
 
-		}
+		}*/
 
 /* Form */
 
